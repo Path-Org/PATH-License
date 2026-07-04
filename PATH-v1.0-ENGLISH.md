@@ -1,8 +1,12 @@
-# P.A.T.H. License v1.0
+SPDX-License-Identifier: LicenseRef-PATH-1.0
 
-**Provenance And Traceable History License**
+P.A.T.H. License v1.0
+
+Provenance And Traceable History License
 
 ---
+
+
 
 English (official version)
 
